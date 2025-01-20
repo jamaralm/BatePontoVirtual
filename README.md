@@ -10,12 +10,15 @@ O **BatePontoVirtual** é uma aplicação que simula o sistema de controle de po
 
 ## Como rodar o projeto:
 1. Clone o repositório:
+   ```bash
    git clone https://github.com/jamaralm/BatePontoVirtual.git
 
 2. Navegue até o diretório do projeto:
+   ```bash
    cd BatePontoVirtual
 
 3. Execute o arquivo index.py:
+   ```bash
    python index.py
 
 ## Tecnologias utilizadas:
