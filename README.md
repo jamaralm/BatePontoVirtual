@@ -1,4 +1,4 @@
-## BatePontoVirtual
+# BatePontoVirtual
 
 ## Descrição:
 O **BatePontoVirtual** é uma aplicação que simula o sistema de controle de ponto, permitindo registrar entradas e saídas de trabalho de maneira simples e eficiente.
